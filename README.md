@@ -5,3 +5,5 @@ Ctrl-Alt-Z zoom in
 Ctl-Alt-Shift-Z zoom out  
 Ctl-Alg-G show grid menu  
 Ctrl-Alt-Shift-G remove grid  
+Ctrl-B remove window border  
+Ctrl-Alt-B show the Bible

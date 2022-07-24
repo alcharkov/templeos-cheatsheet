@@ -1,3 +1,3 @@
 # templeos-cheatsheet
 
-Ctrl-R graphic editors (works everywhere)
+Ctrl-R graphic editor (works everywhere)
